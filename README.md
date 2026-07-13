@@ -1,5 +1,3 @@
-<h1 align="center">Gihun Bae</h1>
-
 <p align="center"><b>AI Backend · Platform Developer</b></p>
 
 <p align="center">LLM · RAG · Agentic AI · AIoT</p>
